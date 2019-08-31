@@ -4,6 +4,7 @@
 - [Shanedolin](https://github.com/Shanedolin)
 - [Matheus Lamezon](https://github.com/Lamezon)
 - [Justin Chow](https://github.com/justinchow11)
+- [Dmitri Tchjen](https://github.com/op-robotics)
 - [kurt](https://github.com/KurtKudrat)
 - [Stacy Meichle](https://github.com/smeichle)
 - [Daemon1024](https://github.com/daemon1024)
